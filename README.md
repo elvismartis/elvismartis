@@ -1,8 +1,5 @@
 
-# Hi there, I'm Elvis Martis! 👋
-
-![Profile Views](https://github.com/elvismartis&color=blue)
-
+# Hi there, I'm Elvis ! 👋
 
 ## 🚀 About Me
 
