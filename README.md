@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-- Currently, Elvis is a postdoctoral fellowship at US2B, Nantes University. 
+- Currently, Elvis is a postdoctoral fellow at US2B, Nantes University. 
 - Previously, he served as an Assistant Professor of Pharmaceutical Chemistry at Bombay College of Pharmacy and conducted computational chemistry research on various drug discovery projects.
 - Elvis earned a bachelor’s degree in Pharmacy from V.E.S. College of Pharmacy (University of Mumbai) in 2011.
 - He pursued a master’s degree in Pharmaceutical Chemistry at Bombay College of Pharmacy in 2014.
