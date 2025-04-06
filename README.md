@@ -9,9 +9,9 @@ I am a postdoctoral fellow at US2B, Nantes University, specializing in computati
 - **Master’s (2014) and Bachelor’s (2011) in Pharmacy**: Focused on pharmaceutical chemistry at the University of Mumbai.
 
 ### 🔬 Research Interests
-- Molecular modeling for chiral separation using cyclodextrins.
 - Protein-ligand interactions and QSAR modeling.
 - Computational techniques for drug discovery and resistance analysis.
+- Peptide design
 
 ### 🌟 Current Projects
 - Exploring molecular modeling techniques protein-ligand interactions.
