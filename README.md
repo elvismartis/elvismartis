@@ -14,7 +14,9 @@ I am a postdoctoral fellow at US2B, Nantes University, specializing in computati
 - Computational techniques for drug discovery and resistance analysis.
 
 ### 🌟 Current Projects
-Exploring molecular modeling techniques to advance understanding of chiral separation and protein-ligand interactions.
+- Exploring molecular modeling techniques protein-ligand interactions.
+- I have started to ventured in to designing peptides using classical and deep learning methods. 
+
 
 
 
