@@ -3,14 +3,18 @@
 
 ## 🚀 About Me
 
-- Currently, Elvis is a postdoctoral fellow at US2B, Nantes University. 
-- Previously, he served as an Assistant Professor of Pharmaceutical Chemistry at Bombay College of Pharmacy and conducted computational chemistry research on various drug discovery projects.
-- Elvis earned a bachelor’s degree in Pharmacy from V.E.S. College of Pharmacy (University of Mumbai) in 2011.
-- He pursued a master’s degree in Pharmaceutical Chemistry at Bombay College of Pharmacy in 2014.
-- He completed his PhD in Computational Chemistry under the guidance of Prof. Dr. Evans Coutinho in 2019.
-- During his PhD, Elvis developed methods to comprehend drug-resistant mutations through computer simulations.
-- His current research interests encompass molecular modeling techniques for understanding chiral separation utilizing cyclodextrins, protein-ligand interactions, and QSAR modeling.
+I am a postdoctoral fellow at US2B, Nantes University, specializing in computational chemistry and drug discovery. My academic journey includes:
+- **PhD in Computational Chemistry (2019)**: Developed methods to study drug-resistant mutations using computer simulations under the guidance of Prof. Dr. Evans Coutinho.
+- **Assistant Professor of Pharmaceutical Chemistry**: Conducted computational drug discovery research at Bombay College of Pharmacy.
+- **Master’s (2014) and Bachelor’s (2011) in Pharmacy**: Focused on pharmaceutical chemistry at the University of Mumbai.
 
+### 🔬 Research Interests
+- Molecular modeling for chiral separation using cyclodextrins.
+- Protein-ligand interactions and QSAR modeling.
+- Computational techniques for drug discovery and resistance analysis.
+
+### 🌟 Current Projects
+Exploring molecular modeling techniques to advance understanding of chiral separation and protein-ligand interactions.
 
 
 
