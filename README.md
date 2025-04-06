@@ -15,7 +15,7 @@ I am a postdoctoral fellow at US2B, Nantes University, specializing in computati
 
 ### 🌟 Current Projects
 - Exploring molecular modeling techniques protein-ligand interactions.
-- I have started to ventured in to designing peptides using classical and deep learning methods. 
+- I have started to venture in to designing peptides using classical and deep learning methods. 
 
 
 
