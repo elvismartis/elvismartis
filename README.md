@@ -1,5 +1,5 @@
 
-# Hi there, I'm Elvis ! 👋
+# Hi, I'm Elvis ! 👋
 
 ## 🚀 About Me
 
