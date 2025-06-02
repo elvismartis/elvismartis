@@ -1,21 +1,21 @@
 
-# Hi, I'm Elvis ! 👋
+# Hi, I'm Elvis! 👋
 
 ## 🚀 About Me
 
-I am a postdoctoral fellow at US2B, Nantes University, specializing in computational chemistry and drug discovery. My academic journey includes:
+I am a postdoctoral fellow at US2B, Nantes University, specialising in computational chemistry and drug discovery. My academic journey includes:
 - **PhD in Computational Chemistry (2019)**: Developed methods to study drug-resistant mutations using computer simulations under the guidance of Prof. Dr. Evans Coutinho.
 - **Assistant Professor of Pharmaceutical Chemistry**: Conducted computational drug discovery research at Bombay College of Pharmacy.
 - **Master’s (2014) and Bachelor’s (2011) in Pharmacy**: Focused on pharmaceutical chemistry at the University of Mumbai.
 
 ### 🔬 Research Interests
-- Protein-ligand interactions and QSAR modeling.
+- Protein-ligand interactions and QSAR modelling.
 - Computational techniques for drug discovery and resistance analysis.
 - Peptide design
 
 ### 🌟 Current Projects
-- Exploring molecular modeling techniques protein-ligand interactions.
-- I have started to venture in to designing peptides using classical and deep learning methods. 
+- Exploring molecular modelling techniques for protein-ligand interactions.
+- I have started to venture into designing peptides using classical and deep learning methods. 
 
 
 
