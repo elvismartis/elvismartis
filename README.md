@@ -18,7 +18,7 @@ I am a postdoctoral fellow at US2B, Nantes University, specialising in computati
 - I have started to venture into designing peptides using classical and deep learning methods. 
 
 ### Selected Papers
-- EAF Martis, and  S Téletchéa. *Plos Computational Biology*. **2025**, 21(5), e1013030.
+- [EAF Martis, and  S Téletchéa.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013030) *Plos Computational Biology*. **2025**, 21(5), e1013030.
 - VG Rao, AA Shendge, PP D'Gama, EAF Martis, S Mehta, EC Coutinho,  *FEBS letters*. **2024**, 598(4), 457-476.
 - MR Borkar, EAF Martis, SR Nandan, RH Patil, A Shelar, KR Iyer, K Raikuvar, D Desle, and EC Coutinho. *Chemico-Biological Interactions*, **2022**, 351, 109758.
 - S Satish, R Chitral, A Kori, B Sharma, J Puttur, AA Khan, D Desle, K Raikuvar, A Korkegian, EAF Martis, KR Iyer, EC Coutinho, T Parish, and SR Nandan. *Molecular Diversity*. **2022**, 26, 73-96.
