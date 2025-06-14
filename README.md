@@ -17,7 +17,7 @@ I am a postdoctoral fellow at US2B, Nantes University, specialising in computati
 - Exploring molecular modelling techniques for protein-ligand interactions.
 - I have started to venture into designing peptides using classical and deep learning methods. 
 
-### Selected Papers
+### 📚 Selected Papers
 - [EAF Martis, and  S Téletchéa.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013030) *Plos Computational Biology*. **2025**, 21(5), e1013030.
 - [VG Rao, AA Shendge, PP D'Gama, EAF Martis, S Mehta, EC Coutinho.](https://febs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/1873-3468.14791)  *FEBS letters*. **2024**, 598(4), 457-476.
 - [MR Borkar, EAF Martis, SR Nandan, RH Patil, A Shelar, KR Iyer, K Raikuvar, D Desle, and EC Coutinho.](https://www.sciencedirect.com/science/article/abs/pii/S0009279721003963) *Chemico-Biological Interactions*, **2022**, 351, 109758.
@@ -32,7 +32,7 @@ I am a postdoctoral fellow at US2B, Nantes University, specialising in computati
 - [K Thimmaiah, AG Ugarkar, EF Martis, MS Shaikh, EC Coutinho, and MC Yergeri.](https://www.tandfonline.com/doi/abs/10.1080/15257770.2014.992531) *Nucleosides, Nucleotides and Nucleic Acids*. **2015**, 34(5), 309-331. 
 - [EAF Martis, RC Chandarana, MS Shaikh, PK Ambre, JS D’Souza, KR Iyer, EC Coutinho, SR Nandan, and RRS Pissurlenkar.](https://www.tandfonline.com/doi/abs/10.1080/07391102.2014.931824) *Journal of Biomolecular Structure and Dynamics*. **2015**, 33(5), 1107-1125.
 
-### Awards, Achievements & Fellowships
+### 🏆 Awards, Achievements & Fellowships
 - **2020-21**: Finalist, BiosolvelT Scientific Challenge.
 - **2015**: Nvidia GPU Seeding Grant (with Prof. Evans Coutinho).
 - **2014-16**: BASF SE Fellowship for Doctoral Studies.
