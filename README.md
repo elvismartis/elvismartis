@@ -11,7 +11,7 @@ I am a postdoctoral fellow at US2B, Nantes University, specialising in computati
 ### 🔬 Research Interests
 - Protein-ligand interactions and QSAR modelling.
 - Computational techniques for drug discovery and resistance analysis.
-- Peptide design
+- Peptide design using state-of-the-art deep learning approaches.
 
 ### 🌟 Current Projects
 - Exploring molecular modelling techniques for protein-ligand interactions.
