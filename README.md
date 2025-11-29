@@ -37,8 +37,9 @@ I am a postdoctoral fellow at US2B, Nantes University, specialising in computati
 - **2014-16**: BASF SE Fellowship for Doctoral Studies.
 
 ## 📈 GitHub Stats
+[![Elvis' GitHub stats](https://github-readme-stats.vercel.app/api?username=elvismartis)](https://github.com/elvismartis/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elvismartis&show_icons=true&theme=radical)
+
 
 ## 📫 Connect with Me
 
